@@ -1,3 +1,3 @@
 # hello-world
-My first repository
+this is my first repository.
 Being a vegan is not only a diet, It is a lifestyle indeed. 
